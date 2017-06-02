@@ -1,0 +1,8 @@
+body {
+    overflow: auto
+}
+
+.big-button { 
+    height: 25rem;
+    width: 25rem
+}
